@@ -5,7 +5,7 @@
         <span class="text">09:41</span>
         <div class="flex-row space-x-4 group">
           <img
-            class="image hhaah"
+            class="image"
             src="https://codefun-proj-user-res-1256085488.cos.ap-guangzhou.myqcloud.com/62ce05105a7e3f0310f6d4fc/634cbc1bf9b4a40011d9ba3f/16659733071044302262.png"
           />
           <img
